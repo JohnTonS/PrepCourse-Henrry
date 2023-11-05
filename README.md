@@ -1,2 +1,5 @@
-# PrepCourse-Henrry
-Modulo 2 de PrepCourse Henrry
+1. Prueba de como crear una prueba de como clonar un repositorio.
+
+Comandos:
+
+- git clone "URL"
